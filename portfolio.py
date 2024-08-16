@@ -57,7 +57,7 @@ def send_email(name, email, message):
 
 # Streamlit app
 def main():
-    st.set_page_config(page_title="Satyam's Portfolio", page_icon=":guardsman:", layout="wide")
+    st.set_page_config(page_title="Satyam Kumar Jha's Portfolio", page_icon=":guardsman:", layout="wide")
 
     # HTML content
     html_code = '''
@@ -110,7 +110,7 @@ def main():
             </section>
             <section id="about">
                 <h2>About Me</h2>
-                <p>I'm Satyam, a [Your Age]-year-old programmer and developer with a strong passion for building innovative solutions. I'm proficient in a range of programming languages, including Python, C++, and Java, and have experience with various frameworks and technologies. I'm always looking to learn and improve my skills, and I'm excited to share my projects and experiences with you.</p>
+                <p>I'm Satyam, a 20-year-old programmer and developer with a strong passion for building innovative solutions. I'm proficient in a range of programming languages, including Python, C++, and Java, and have experience with various frameworks and technologies. I'm always looking to learn and improve my skills, and I'm excited to share my projects and experiences with you.</p>
             </section>
             <section id="skills">
                 <h2>Skills</h2>
